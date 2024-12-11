@@ -33,7 +33,7 @@ Users should be able to:
 
 **Desktop Design**
 
-![](design/desktop-design.png.jpg)
+![](design/desktop-design.png)
 
 **Mobile Design**
 
@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/ping-coming-soon-page-BblUEzUY0k)
+- Live Site URL: [Live Site](https://yashi-singh-9.github.io/Ping-Coming-Soon-Page/)
 
 ## My process
 
@@ -134,13 +134,13 @@ Ensure your project structure looks like this:
 
 ```
 /ping-coming-soon-page
-  /dist
-    /css
-      style.css
-  /src
-    /scss
-      style.scss
+  design/
+  images/
   index.html
+  style.sass
+  style.css
+  style.css.map
+  style-guide.md
   README.md
 ```
 

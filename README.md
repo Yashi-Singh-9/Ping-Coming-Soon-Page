@@ -85,9 +85,8 @@ In future projects, I aim to refine my skills in JavaScript validation and handl
 
 ## Author
 
-- Website - [Yashi Singh](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- LinkedIn - [Yashi Singh](https://www.linkedin.com/in/yashi-singh-b4143a246)
+- Frontend Mentor - [@Yashi-Singh-9](https://www.frontendmentor.io/profile/Yashi-Singh-9)
 
 ## Acknowledgments
 

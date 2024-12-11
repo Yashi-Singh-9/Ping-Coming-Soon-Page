@@ -146,7 +146,7 @@ Ensure your project structure looks like this:
 
 #### 5. **Customizing and Using SASS**
 
-In the `src/scss/style.scss` file, you can use SASS features like variables, nesting, and mixins for more maintainable and scalable CSS.
+In the `style.sass` file, you can use SASS features like variables, nesting, and mixins for more maintainable and scalable CSS.
 
 For example, use variables for color definitions:
 
